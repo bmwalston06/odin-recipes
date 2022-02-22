@@ -1,0 +1,23 @@
+body {
+    background-color: bisque;
+    width: auto;
+}
+
+.header {
+    text-align: center;
+    color: brown;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.recipe {
+    list-style-type: none;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+}
+
+.recipe, a {
+    color: teal;
+    margin: 25px;
+    
+}
